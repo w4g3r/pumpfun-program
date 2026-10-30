@@ -1,4 +1,8 @@
 {
+  "name": "pump-program",
+  "version": "1.0.0",
+  "author": "w4g3r",
+  "license": "MIT",
   "type": "commonjs",
   "scripts": {
     "lint:fix": "prettier */*.js \"*/**/*{.js,.ts}\" -w",
